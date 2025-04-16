@@ -20,8 +20,10 @@ A simple yet powerful password generator built with Python and Tkinter. Customiz
 
 ## 🖼️ Demo
 
-![password-generator-ui](preview1.png)
-![password-generator-ui](preview2.png)
+<p align="center">
+  <img src="preview1.png" alt="UI 1" width="45%" />
+  <img src="preview2.png" alt="UI 2" width="45%" />
+</p>
 
 ---
 
